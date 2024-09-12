@@ -1,13 +1,11 @@
 # DAC
-Proof of *Doc as Code* concept.
+*Doc as Code* proof of concept
 
-github auto-previews check list:
-- `.md` by default
-- `.adoc` by default
-
-- `.png` by default
-- `.svg` by default
-- `.html` by default
-- `.pdf` by default
-  
-...
+github auto-previews checklist:
+- [x] `.md` by default
+- [x] `.adoc` by default
+- [x] `.png` by default
+- [x] `.svg` by default
+- [x] `.html` by default
+- [x] `.pdf` by default
+- [ ] ...
