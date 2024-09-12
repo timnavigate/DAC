@@ -1,11 +1,8 @@
 # ZenUML
 
-### example 1
+## example 1
 *file:*  
 [example1.zenuml](example1.zenuml)
-
-*preview:*  
-pic...
 
 <details>
 <summary>body:</summary>
@@ -40,12 +37,12 @@ Customer->Website.checkout(paymentInfo) {
 ```
 </details>
 
-### example 2
+*preview:*  
+![Screenshot 2024-09-12 160623](https://github.com/user-attachments/assets/50bb67c8-031d-423b-a908-ea316d0a15dd)
+
+## example 2
 *file:*  
 [example2.zenuml](example2.zenuml)
-
-*preview:*  
-pic...
 
 <details>
 <summary>body:</summary>
@@ -75,3 +72,6 @@ OrderController.post(payload) {
 }
 ```
 </details>
+
+*preview:*  
+![Screenshot 2024-09-12 160700](https://github.com/user-attachments/assets/daa4269b-a8fb-46ae-b341-8a6a7c901aae)
