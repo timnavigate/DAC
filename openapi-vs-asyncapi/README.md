@@ -71,6 +71,8 @@
 
 *validator:*  
 [swagger editor]  
+
+*preview:*
 ![Screenshot 2024-09-12 155309](https://github.com/user-attachments/assets/f787016c-5f45-47ca-a617-dffe1737252f)
 
 ### YAML
@@ -256,6 +258,8 @@ paths:
 
 *validator:*  
 [swagger editor]  
+
+*preview:*
 ![Screenshot 2024-09-12 155457](https://github.com/user-attachments/assets/6d5826d0-1f86-4650-8276-d0c07c4ea32d)
 
 ## AsyncAPI
@@ -304,6 +308,8 @@ components:
 
 *validator:*  
 [asyncapi studio]  
+
+*preview:*
 ![Screenshot 2024-09-12 155603](https://github.com/user-attachments/assets/de55fc50-eefb-4f0a-8360-8e1e452055f0)
 
 
