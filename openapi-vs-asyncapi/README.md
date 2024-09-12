@@ -1,15 +1,11 @@
-# OpenAPI spec notation vs. AsyncAPI
+# OpenAPI vs. AsyncAPI
 ## OpenAPI
 ### JSON
-*filename:*  
+*file:*  
 [openapi-2.0.json](openapi20-example.json)
 
-*validator:*  
-[swagger editor]  
-pic...
-
 <details>
-<summary>body</summary>
+<summary>body:</summary>
 
 ```json5
 {
@@ -73,16 +69,16 @@ pic...
 ```
 </details>
 
-### YAML
-*filename:*  
-[openapi-3.0.yaml](openapi30-example.yaml)
-
 *validator:*  
 [swagger editor]  
-pic...
+![Screenshot 2024-09-12 155309](https://github.com/user-attachments/assets/f787016c-5f45-47ca-a617-dffe1737252f)
+
+### YAML
+*file:*  
+[openapi-3.0.yaml](openapi30-example.yaml)
 
 <details>
-<summary>YAML example</summary>
+<summary>body:</summary>
 
 ```yaml
 openapi: "3.0.0"
@@ -258,14 +254,14 @@ paths:
 ```
 </details>
 
+*validator:*  
+[swagger editor]  
+![Screenshot 2024-09-12 155457](https://github.com/user-attachments/assets/6d5826d0-1f86-4650-8276-d0c07c4ea32d)
+
 ## AsyncAPI
 ### YAML
-*filename:*
+*file:*
 [asyncapi-0.0.yaml](asyncapi00-example.yaml)
-
-*validator:*  
-[asyncapi studio]  
-pic...
 
 <details>
 <summary>body:</summary>
@@ -306,6 +302,9 @@ components:
 ```
 </details>
 
+*validator:*  
+[asyncapi studio]  
+![Screenshot 2024-09-12 155603](https://github.com/user-attachments/assets/de55fc50-eefb-4f0a-8360-8e1e452055f0)
 
 
 
