@@ -241,5 +241,8 @@
 ```
 </details>
 
+*validator:*  
+[diagram.net](https://app.diagrams.net/)
+
 *preview:*  
 ![Screenshot 2024-09-12 161751](https://github.com/user-attachments/assets/350543db-b1ca-46d7-8125-03eb6f79ccb2)
