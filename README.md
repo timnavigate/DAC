@@ -7,14 +7,14 @@ DAC goals:
 * Automation
 
 ## BOK (Books of Knowledge)
-[content](BOK/README.md)
+[content](boks/README.md)
 
 ## Playground
-* [ascidoc](/asciidoc-playground/README.md)
-* [d2](/d2-playground/README.md)
-* [drawio](/drawio-playground/README.md)
-* [openapi/asyncapi](/openapi-vs-asyncapi/README.md)
-* [zenuml](/zenuml-playground/README.md)
+* [ascidoc](playgrounds/asciidoc/README.md)
+* [d2](playgrounds/d2/README.md)
+* [drawio](playgrounds/drawio/README.md)
+* [openapi/asyncapi](playgrounds/openapi-vs-asyncapi/README.md)
+* [zenuml](playgrounds/zenuml/README.md)
 
 ### github auto-previews checklist
 - [x] `.md` by default
