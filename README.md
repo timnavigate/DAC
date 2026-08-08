@@ -1,8 +1,8 @@
 ## DAC
 `Docs as Code` proof of concept and check of goals:
-* Versioning
-* Reusability
-* Automation
+* versioning, reusability, automation, blah-blah-blah
+* llm-agents prepared preparation level
+* who reads this and how
 
 ### BOK (Books of Knowledge)
 [content](boks/README.md)
@@ -25,27 +25,25 @@
 - [ ] ...
 
 ### Diagrams as Code tools
-* [PlantUML](https://plantuml.com) - *b.f.* Diagram Types
+* [PlantUML](https://plantuml.com) - diagram types
 * [ZenUML](https://zenuml.com)
 * [D2](https://d2lang.com)
 
-* [Mermaid](https://mermaid.js.org) - *b.f.* Web-based Diagramming
-* [Graphviz](https://graphviz.org) - *b.f.* Network Diagrams
-* [Structurizr](https://structurizr.com) - *b.f.* ADR documentation and communication based on C4 Modeling
+* [Mermaid](https://mermaid.js.org) - web-based diagramming
+* [Graphviz](https://graphviz.org) - network diagrams
+* [Structurizr](https://structurizr.com) - ADR documentation and communication based on C4 Modeling
 
 * [WebSequenceDiagrams](https://websequencediagrams.com)
 * [SequenceDiagram](https://sequencediagram.org)
-* [drawio](https://drawio.com) - *b.f.* Web-based DaC
-* [Holori](https://app.holori.com) - *b.f.* Terraform code to diagrams
-* [Diagrams Mingrammer](https://diagrams.mingrammer.com) - *b.f.* Cloud System Arch DaC
-* [CloudSkew](https://app.cloudskew.com) - *b.f.* Cloud Arch diagramming
+* [drawio](https://drawio.com) - Web-based DaC
+* [Holori](https://app.holori.com) - terraform code to diagrams
+* [Diagrams Mingrammer](https://diagrams.mingrammer.com) - Cloud System Arch DaC
+* [CloudSkew](https://app.cloudskew.com) - cloud arch diagramming
 * [BMPN](https://bpmn.io)
 * [IcePanel](https://icepanel.com)
-* [Lucidchart](https://lucidchart.com) - *b.f.* collaborating diagramming
-* [Excalidraw](https://excalidraw.com) - *b.f.* collaborating whiteboarding
-* [Holst](https://holst.so/) - *b.f.* collaborating whiteboarding
+* [Lucidchart](https://lucidchart.com) - collaborating diagramming
+* [Excalidraw](https://excalidraw.com) - collaborating whiteboarding
+* [Holst](https://holst.so/) - collaborating whiteboarding
 
-
-
-* [tldraw](https://tldraw.com) - *b.f.* collaborating sketching
-* [Gliffy](https://gliffy.com) - *b.f.* collaborating drag-and-drop
+* [tldraw](https://tldraw.com) - collaborating sketching
+* [Gliffy](https://gliffy.com) - collaborating drag-and-drop
