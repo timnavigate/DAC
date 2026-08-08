@@ -7,7 +7,7 @@
 [ba-bok.md](ba-bok.md)
 
 ## SWE BOK (Software Engineering Body of Knowledge)
-[swe-bok.md](swe-cbok.md)
+[swe-bok.md](swe-bok.md)
 
 ## EA BOK (Enterprise Architecture Body of Knowledge)
 [ea-bok.md](ea-bok.md)
