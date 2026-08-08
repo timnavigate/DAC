@@ -23,6 +23,7 @@ DAC goals:
 - [x] `.svg` by default
 - [x] `.html` by default
 - [x] `.pdf` by default
+- [x] `.jpg` by default pasted via ![title](url)
 - [ ] ...
 
 ## Diagrams as Code tools
@@ -44,5 +45,6 @@ DAC goals:
 * [IcePanel](https://icepanel.com)
 * [Lucidchart](https://lucidchart.com) - *b.f.* collaborating diagramming
 * [Excalidraw](https://excalidraw.com) - *b.f.* collaborating whiteboarding
+* [Holst](https://holst.so/) - *b.f.* collaborating whiteboarding
 * [tldraw](https://tldraw.com) - *b.f.* collaborating sketching
 * [Gliffy](https://gliffy.com) - *b.f.* collaborating drag-and-drop
