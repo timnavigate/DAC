@@ -1,5 +1,6 @@
-## SWE BOK 4.0
-### Software Engineering Body of Knowledge  
+## SWE BOK
+### Software Engineering Body of Knowledge
+_Version 4.0, released by the IEEE Computer Society in late 2024_  
 
 _пример_
 
