@@ -1,22 +1,20 @@
-# DAC
-*'Docs as Code'* proof of concept
-
-DAC goals:
+## DAC
+`Docs as Code` proof of concept and check of goals:
 * Versioning
 * Reusability
 * Automation
 
-## BOK (Books of Knowledge)
+### BOK (Books of Knowledge)
 [content](boks/README.md)
 
-## Playground
+### Playground
 * [ascidoc](playgrounds/asciidoc/README.md)
 * [d2](playgrounds/d2/README.md)
 * [drawio](playgrounds/drawio/README.md)
 * [openapi/asyncapi](playgrounds/openapi-vs-asyncapi/README.md)
 * [zenuml](playgrounds/zenuml/README.md)
 
-### github auto-previews checklist
+#### github auto-previews checklist
 - [x] `.md` by default
 - [x] `.adoc` by default
 - [x] `.png` by default
@@ -26,7 +24,7 @@ DAC goals:
 - [x] `.jpg` by default pasted via `![_title_](_url_)`
 - [ ] ...
 
-## Diagrams as Code tools
+### Diagrams as Code tools
 * [PlantUML](https://plantuml.com) - *b.f.* Diagram Types
 * [ZenUML](https://zenuml.com)
 * [D2](https://d2lang.com)
@@ -46,5 +44,8 @@ DAC goals:
 * [Lucidchart](https://lucidchart.com) - *b.f.* collaborating diagramming
 * [Excalidraw](https://excalidraw.com) - *b.f.* collaborating whiteboarding
 * [Holst](https://holst.so/) - *b.f.* collaborating whiteboarding
+
+
+
 * [tldraw](https://tldraw.com) - *b.f.* collaborating sketching
 * [Gliffy](https://gliffy.com) - *b.f.* collaborating drag-and-drop
