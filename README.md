@@ -4,10 +4,10 @@
 * llm-agents prepared preparation level
 * who reads this and how
 
-### BOK (Books of Knowledge)
+### list
 [content](boks/README.md)
 
-### Playground
+### playgrounds
 * [ascidoc](playgrounds/asciidoc/README.md)
 * [d2](playgrounds/d2/README.md)
 * [drawio](playgrounds/drawio/README.md)
@@ -24,15 +24,13 @@
 - [x] `.jpg` by default pasted via `![_title_](_url_)`
 - [ ] ...
 
-### Diagrams as Code tools
+### diagrams as code tools
 * [PlantUML](https://plantuml.com) - diagram types
 * [ZenUML](https://zenuml.com)
 * [D2](https://d2lang.com)
-
 * [Mermaid](https://mermaid.js.org) - web-based diagramming
 * [Graphviz](https://graphviz.org) - network diagrams
 * [Structurizr](https://structurizr.com) - ADR documentation and communication based on C4 Modeling
-
 * [WebSequenceDiagrams](https://websequencediagrams.com)
 * [SequenceDiagram](https://sequencediagram.org)
 * [drawio](https://drawio.com) - Web-based DaC
@@ -44,6 +42,5 @@
 * [Lucidchart](https://lucidchart.com) - collaborating diagramming
 * [Excalidraw](https://excalidraw.com) - collaborating whiteboarding
 * [Holst](https://holst.so/) - collaborating whiteboarding
-
 * [tldraw](https://tldraw.com) - collaborating sketching
 * [Gliffy](https://gliffy.com) - collaborating drag-and-drop
