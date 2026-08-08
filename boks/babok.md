@@ -1,5 +1,6 @@
-## BA BOK 3.0
-### Business Analysis Body of Knowledge  
+## BA BOK
+### Business Analysis Body of Knowledge
+_Version 3, published on April 15, 2015, by the International Institute of Business Analysis (IIBA)_
 
 _пример_
 
