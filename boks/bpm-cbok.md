@@ -1,6 +1,6 @@
 ## BPM CBOK
 ### Business Process Management Common Body of Knowledge
-_Version 4.0, released on November 11, 2019, by ABPMP International_  
+_Version 4.0, released on November 11 2019, by ABPMP International_  
 
 #### 4. Моделирование процессов
 В видео [1] и [2] обсуждаются следующие темы:
