@@ -23,7 +23,7 @@ DAC goals:
 - [x] `.svg` by default
 - [x] `.html` by default
 - [x] `.pdf` by default
-- [x] `.jpg` by default pasted via ![title](url)
+- [x] `.jpg` by default pasted via `![_title_](_url_)`
 - [ ] ...
 
 ## Diagrams as Code tools
