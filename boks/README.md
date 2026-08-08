@@ -25,7 +25,7 @@ If you are trying to prepare for an architecture framework certification or alig
 [dm-bok.md](dm-bok.md)
 
 ## PM BOK (Project Management Body of Knowledge)
-[pm-.md](pm-bok.md)
+[pm-bok.md](pm-bok.md)
 
 ## A BOK (Automation Body of Knowledge)
 [a-bok.md](a-bok.md)
