@@ -1,4 +1,4 @@
-## BPM CBOK 4.0
+## BPM CBOK
 ### Business Process Management Common Body of Knowledge
 _Version 4.0, released on November 11, 2019, by ABPMP International_  
 
