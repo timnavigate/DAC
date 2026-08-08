@@ -1,15 +1,16 @@
 # Books of Knowledge
 
 ## BPM CBOK (Business Process Management Common Body of Knowledge)
-[content](bpm_cbok.md)
+[bpm-cbok.md](bpm-cbok.md)
 
 ## BA BOK (Business Analysis Body of Knowledge)
-todo...
+[ba-bok.md](ba-bok.md)
 
 ## SWE BOK (Software Engineering Body of Knowledge)
-todo...
+[swe-bok.md](swe-cbok.md)
 
 ## EA BOK (Enterprise Architecture Body of Knowledge)
+[ea-bok.md](ea-bok.md)
 
 ### Active Alternatives in 2026
 
@@ -21,10 +22,10 @@ Because the EABOK is defunct, enterprise architects rely on other regularly upda
 If you are trying to prepare for an architecture framework certification or align your team's methodologies, please let me know. I can provide the newest details on **TOGAF 10** or the **BIZBOK Guide**.
 
 ## DM BOK (Data Management Body of Knowledge)
-todo...
+[dm-bok.md](dm-bok.md)
 
 ## PM BOK (Project Management Body of Knowledge)
-todo.s..
+[pm-.md](pm-bok.md)
 
 ## A BOK (Automation Body of Knowledge)
-todo...
+[a-bok.md](a-bok.md)
