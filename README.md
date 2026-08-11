@@ -13,7 +13,7 @@
 * [drawio](playgrounds/drawio/README.md)
 * [openapi/asyncapi](playgrounds/openapi-vs-asyncapi/README.md)
 * [zenuml](playgrounds/zenuml/README.md)
-* [mermaidlive](https://mermaid.live/edit)
+* [mermaid](playgrounds/mermaid.md)
 
 #### github auto-previews checklist
 - [x] `.md` by default
@@ -23,7 +23,7 @@
 - [x] `.html` by default
 - [x] `.pdf` by default
 - [x] `.jpg` by default pasted via `![_title_](_url_)`
-- [x] `.mermaid` by default
+- [ ] `.mermaid` by default
 - [ ] ...
 
 ### diagrams as code tools
