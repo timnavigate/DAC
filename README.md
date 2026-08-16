@@ -7,7 +7,7 @@
 ### BOKs
 [content](boks/README.md)
 
-### playgrounds
+### Playgrounds
 * [ascidoc](playgrounds/asciidoc/README.md)
 * [d2](playgrounds/d2/README.md)
 * [drawio](playgrounds/drawio/README.md)
@@ -15,10 +15,12 @@
 * [zenuml](playgrounds/zenuml/README.md)
 * [mermaid](playgrounds/mermaid.md)
 
-### official
-[UML 2.5](https://www.uml-diagrams.org/)
+### Official Docs
+- [UML 2.5](https://www.uml-diagrams.org/)
+- [BPMN 2.0](https://www.bpmn.org/)
+  - [DES](https://habr.com/ru/articles/1042754/) - Discrete Event Simulation, Дискретно-событийное (имитационное) моделирование 
 
-#### github auto-previews checklist
+#### Github auto-previews checklist
 - [x] `.md` by default
 - [x] `.adoc` by default
 - [x] `.png` by default
@@ -29,7 +31,7 @@
 - [ ] `.mermaid` by default
 - [ ] ...
 
-### diagrams as code tools
+### Diagrams as code tools
 * [PlantUML](https://plantuml.com) - diagram types
 * [ZenUML](https://zenuml.com)
 * [D2](https://d2lang.com)
