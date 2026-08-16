@@ -4,7 +4,7 @@
 * llm-agents prepared preparation level
 * who reads this and how
 
-### list
+### BOKs
 [content](boks/README.md)
 
 ### playgrounds
@@ -14,6 +14,9 @@
 * [openapi/asyncapi](playgrounds/openapi-vs-asyncapi/README.md)
 * [zenuml](playgrounds/zenuml/README.md)
 * [mermaid](playgrounds/mermaid.md)
+
+### official
+[UML 2.5](https://www.uml-diagrams.org/)
 
 #### github auto-previews checklist
 - [x] `.md` by default
